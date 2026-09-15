@@ -50,6 +50,7 @@ Contributions welcome — open a PR.
 - [XDC Discord](https://discord.com/invite/MFeHJ6C5gn)
 - [r/XinFin](https://www.reddit.com/r/xinfin)
 - [XDC on X/Twitter](https://x.com/XDCFoundation)
+- [HostDeFi](https://hostdefi.com) — free token-safety scanner grading tokens A+–F from on-chain checks (mint/freeze authority, liquidity, holder concentration) across Solana + 7 EVM chains. Keyless REST API, hosted MCP, x402 endpoints.
 
 ---
 
